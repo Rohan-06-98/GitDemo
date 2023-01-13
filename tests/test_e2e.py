@@ -69,3 +69,5 @@ class TestMain(BaseClass):
         self.driver.get_screenshot_as_file("sign_out.png")
 
         time.sleep(6)
+
+# here the Amazon project is completed.
